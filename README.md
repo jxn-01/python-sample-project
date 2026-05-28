@@ -30,6 +30,16 @@ Then run:
 python main.py data.csv
 ```
 
+## Sample Data and Demo
+
+A sample CSV file is included at `data/sample_data.csv`.
+
+Run the demo script with:
+
+```bash
+python demo.py
+```
+
 ## Testing
 
 Run the unit tests with:
